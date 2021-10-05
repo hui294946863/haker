@@ -1,7 +1,7 @@
 # haker
 首页显示内容
 
-客户端 下载地址: 密码咨询管理员 解压位置:C:\目录下
+客户端 下载地址: https://haker.lanzouw.com/iVgUsuyj0sb 密码咨询管理员 解压位置:C:\目录下
 
 
 浏览器 下载地址: https://haker.lanzouw.com/irfkduyi2pe 密码咨询管理员 解压位置:C:\Haker目录下
